@@ -7,10 +7,10 @@
     <title>Магазин пончиков</title>
 </head>
 <style>
-/* Стили пиши здесь :) */
 .cont {
     text-align: center;
-    background: yellow;
+    background: rgb(255, 255, 84);
+    color: red;
 }
 </style>
 <body class="cont">
